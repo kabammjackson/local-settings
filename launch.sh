@@ -1,11 +1,11 @@
 #!/bin/sh
 
 # Get all initial services and configs
-sudo ~/kbm-dev-spc/sparx-bullseye/scripts/setup.sh
+sudo ~/kbm-devspc/sparx-bullseye/scripts/setup.sh
 
 
 # Launch application
-sudo ~/kbm-dev-spc/sparx-bullseye/scripts/local.sh debug
+sudo ~/kbm-devspc/sparx-bullseye/scripts/local.sh debug
 
 
 # Open browser pointed at local
