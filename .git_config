@@ -1,0 +1,11 @@
+[user]
+    name = Matthew Jackson
+    email = mjackson@kabaminc.com
+[core]
+    excludesfile = /Users/mjackson/tools/.gitignore_global
+[alias]
+    lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+[pager]
+    branch = false
+[credential]
+	helper = osxkeychain
